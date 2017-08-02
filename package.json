@@ -1,0 +1,17 @@
+{
+  "name": "ParseServer",
+  "version": "1.0.0",
+  "description": "Parse server for IOS - Web - Android APP ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test yet \""
+  },
+  "repository": "https://github.com/StanSarr/parse-server.git",
+  "author": "Stan SARR",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.3",
+    "parse-dashboard": "^1.1.0",
+    "parse-server": "^2.5.3"
+  }
+}

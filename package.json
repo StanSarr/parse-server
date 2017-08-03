@@ -4,7 +4,7 @@
   "description": "Parse server for IOS - Web - Android APP ",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test yet \""
+    "test": "echo \"Error: no test yet \"",
     "start": "nodemon"
   },
   "repository": "https://github.com/StanSarr/parse-server.git",

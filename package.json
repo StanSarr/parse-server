@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test yet \""
+    "start": "nodemon"
   },
   "repository": "https://github.com/StanSarr/parse-server.git",
   "author": "Stan SARR",
